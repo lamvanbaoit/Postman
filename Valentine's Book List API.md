@@ -1,4 +1,4 @@
-# API
+# Valentine's Book List API
 
 This API allows you to view the books that Valentine has read or plans to read.
 
